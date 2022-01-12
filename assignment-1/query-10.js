@@ -1,0 +1,1 @@
+db.assignment.updateMany({ job: "Editor" }, { $unset: { email: "" } })

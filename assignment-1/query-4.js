@@ -1,0 +1,1 @@
+db.assignment.find({ weight: { $gt: "68", $lt: "71.5" } })

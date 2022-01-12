@@ -1,0 +1,1 @@
+db.assignment.updateMany({ 'location.city': 'Moscow' }, { $set: { 'location.city': "Moskwa" } })

@@ -1,0 +1,1 @@
+db.assignment.remove({ height: { $gt: '190' } })
