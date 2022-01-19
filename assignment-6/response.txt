@@ -1,0 +1,6 @@
+Document added to database: Tesla
+Document: Tesla - {"year": 2020, "price": 50000, "manufacturer": "Tesla", "model": "Model 3"}
+Document: Tesla - has been updated (changed field 'price' to 75000)
+Document: Tesla - {"year": 2020, "price": 75000, "manufacturer": "Tesla", "model": "Model 3"}
+Document: Tesla - has been deleted
+Unable to find document: Tesla (Document: None)

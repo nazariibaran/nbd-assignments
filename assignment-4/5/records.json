@@ -1,0 +1,347 @@
+[
+  {
+    "a1": {
+      "identity": 365,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "r": [
+      {
+        "identity": 2265,
+        "start": 365,
+        "end": 400,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 704,
+          "date": "11/2/2015 15:15:29",
+          "duration": 83,
+          "flight": 1335,
+          "distance": 677,
+          "minPrice": 528.0,
+          "firstClassPrice": 844.8,
+          "airline": "20304",
+          "economyPrice": 528.0
+        }
+      }
+    ],
+    "a2": {
+      "identity": 400,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "ABQ"
+      }
+    }
+  },
+  {
+    "a1": {
+      "identity": 365,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "r": [
+      {
+        "identity": 2265,
+        "start": 365,
+        "end": 400,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 704,
+          "date": "11/2/2015 15:15:29",
+          "duration": 83,
+          "flight": 1335,
+          "distance": 677,
+          "minPrice": 528.0,
+          "firstClassPrice": 844.8,
+          "airline": "20304",
+          "economyPrice": 528.0
+        }
+      },
+      {
+        "identity": 2101,
+        "start": 400,
+        "end": 365,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 716,
+          "date": "11/3/2015 23:13:12",
+          "duration": 117,
+          "flight": 1271,
+          "distance": 677,
+          "minPrice": 537.0,
+          "firstClassPrice": 859.1999999999999,
+          "airline": "20304",
+          "economyPrice": 537.0
+        }
+      }
+    ],
+    "a2": {
+      "identity": 365,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LAX"
+      }
+    }
+  },
+  {
+    "a1": {
+      "identity": 365,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "r": [
+      {
+        "identity": 2265,
+        "start": 365,
+        "end": 400,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 704,
+          "date": "11/2/2015 15:15:29",
+          "duration": 83,
+          "flight": 1335,
+          "distance": 677,
+          "minPrice": 528.0,
+          "firstClassPrice": 844.8,
+          "airline": "20304",
+          "economyPrice": 528.0
+        }
+      },
+      {
+        "identity": 2101,
+        "start": 400,
+        "end": 365,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 716,
+          "date": "11/3/2015 23:13:12",
+          "duration": 117,
+          "flight": 1271,
+          "distance": 677,
+          "minPrice": 537.0,
+          "firstClassPrice": 859.1999999999999,
+          "airline": "20304",
+          "economyPrice": 537.0
+        }
+      },
+      {
+        "identity": 2206,
+        "start": 365,
+        "end": 373,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 394,
+          "date": "11/1/2015 12:26:52",
+          "duration": 65,
+          "flight": 1359,
+          "distance": 373,
+          "minPrice": 295.5,
+          "firstClassPrice": 472.79999999999995,
+          "airline": "20304",
+          "economyPrice": 295.5
+        }
+      }
+    ],
+    "a2": {
+      "identity": 373,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SMF"
+      }
+    }
+  },
+  {
+    "a1": {
+      "identity": 365,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "r": [
+      {
+        "identity": 2265,
+        "start": 365,
+        "end": 400,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 704,
+          "date": "11/2/2015 15:15:29",
+          "duration": 83,
+          "flight": 1335,
+          "distance": 677,
+          "minPrice": 528.0,
+          "firstClassPrice": 844.8,
+          "airline": "20304",
+          "economyPrice": 528.0
+        }
+      },
+      {
+        "identity": 2101,
+        "start": 400,
+        "end": 365,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 716,
+          "date": "11/3/2015 23:13:12",
+          "duration": 117,
+          "flight": 1271,
+          "distance": 677,
+          "minPrice": 537.0,
+          "firstClassPrice": 859.1999999999999,
+          "airline": "20304",
+          "economyPrice": 537.0
+        }
+      },
+      {
+        "identity": 2206,
+        "start": 365,
+        "end": 373,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 394,
+          "date": "11/1/2015 12:26:52",
+          "duration": 65,
+          "flight": 1359,
+          "distance": 373,
+          "minPrice": 295.5,
+          "firstClassPrice": 472.79999999999995,
+          "airline": "20304",
+          "economyPrice": 295.5
+        }
+      },
+      {
+        "identity": 2225,
+        "start": 373,
+        "end": 377,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 946,
+          "date": "11/30/2015 00:17:02",
+          "duration": 113,
+          "flight": 539,
+          "distance": 909,
+          "minPrice": 709.5,
+          "firstClassPrice": 1135.2,
+          "airline": "19977",
+          "economyPrice": 709.5
+        }
+      }
+    ],
+    "a2": {
+      "identity": 377,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "DEN"
+      }
+    }
+  },
+  {
+    "a1": {
+      "identity": 365,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "r": [
+      {
+        "identity": 2265,
+        "start": 365,
+        "end": 400,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 704,
+          "date": "11/2/2015 15:15:29",
+          "duration": 83,
+          "flight": 1335,
+          "distance": 677,
+          "minPrice": 528.0,
+          "firstClassPrice": 844.8,
+          "airline": "20304",
+          "economyPrice": 528.0
+        }
+      },
+      {
+        "identity": 2101,
+        "start": 400,
+        "end": 365,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 716,
+          "date": "11/3/2015 23:13:12",
+          "duration": 117,
+          "flight": 1271,
+          "distance": 677,
+          "minPrice": 537.0,
+          "firstClassPrice": 859.1999999999999,
+          "airline": "20304",
+          "economyPrice": 537.0
+        }
+      },
+      {
+        "identity": 2206,
+        "start": 365,
+        "end": 373,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 394,
+          "date": "11/1/2015 12:26:52",
+          "duration": 65,
+          "flight": 1359,
+          "distance": 373,
+          "minPrice": 295.5,
+          "firstClassPrice": 472.79999999999995,
+          "airline": "20304",
+          "economyPrice": 295.5
+        }
+      },
+      {
+        "identity": 2225,
+        "start": 373,
+        "end": 377,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 946,
+          "date": "11/30/2015 00:17:02",
+          "duration": 113,
+          "flight": 539,
+          "distance": 909,
+          "minPrice": 709.5,
+          "firstClassPrice": 1135.2,
+          "airline": "19977",
+          "economyPrice": 709.5
+        }
+      },
+      {
+        "identity": 2249,
+        "start": 377,
+        "end": 389,
+        "type": "ROUTE",
+        "properties": {
+          "businessPrice": 635,
+          "date": "11/29/2015 22:39:02",
+          "duration": 101,
+          "flight": 723,
+          "distance": 602,
+          "minPrice": 476.25,
+          "firstClassPrice": 762.0,
+          "airline": "19977",
+          "economyPrice": 476.25
+        }
+      }
+    ],
+    "a2": {
+      "identity": 389,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "PHX"
+      }
+    }
+  }
+]

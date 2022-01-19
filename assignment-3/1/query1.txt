@@ -1,0 +1,1 @@
+MATCH (movie:Movie) RETURN movie.title

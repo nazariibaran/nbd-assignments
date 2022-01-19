@@ -1,0 +1,33 @@
+// Creating movie node
+CREATE (movie:Movie { title: "Captain America", tagline: "The first Avenger", released: 2011 })
+RETURN movie
+
+// Creating director node
+CREATE (p:Person { name: "Joe Johnston", born: 1950 })
+RETURN p
+
+// Creating writer node
+CREATE (p:Person {name: "Christopher Markus", born: 1970})
+RETURN p
+
+// Creating actor node
+CREATE (p:Person {name: "Chris Evans", born: 1981})
+RETURN p
+
+// Creating a relationship between movie and director
+MATCH (director:Person), (movie:Movie)
+WHERE director.name="Joe Johnston" AND movie.title="Captain America"
+CREATE (director)-[relation:DIRECTED]->(movie)
+RETURN type(relation)
+
+// Creating a relationship between movie and writer
+MATCH (writer:Person), (movie:Movie)
+WHERE writer.name="Christopher Markus" AND movie.title="Captain America"
+CREATE (writer)-[relation:WROTE]->(movie)
+RETURN type(relation)
+
+// Creating a relationship between movie and actor
+MATCH (actor:Person), (movie:Movie)
+WHERE actor.name="Chris Evans" AND movie.title="Captain America"
+CREATE (actor)-[relation:ACTED_IN]->(movie)
+RETURN type(relation)

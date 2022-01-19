@@ -1,0 +1,502 @@
+[
+  {
+    "airport": {
+      "identity": 363,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SAT"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 366,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "FLL"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 369,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "KOA"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 373,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 374,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "RIC"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 375,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "IND"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 380,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "MCI"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 381,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "MSN"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 390,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "BIL"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 392,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "ROC"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 393,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "CLT"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 394,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "DCA"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 398,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "PBI"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 399,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "MIA"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 405,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "MOB"
+      }
+    },
+    "amountOfDepartures": 1
+  },
+  {
+    "airport": {
+      "identity": 382,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SNA"
+      }
+    },
+    "amountOfDepartures": 2
+  },
+  {
+    "airport": {
+      "identity": 385,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LAS"
+      }
+    },
+    "amountOfDepartures": 2
+  },
+  {
+    "airport": {
+      "identity": 386,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "ATL"
+      }
+    },
+    "amountOfDepartures": 2
+  },
+  {
+    "airport": {
+      "identity": 387,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "CMH"
+      }
+    },
+    "amountOfDepartures": 2
+  },
+  {
+    "airport": {
+      "identity": 388,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SJC"
+      }
+    },
+    "amountOfDepartures": 2
+  },
+  {
+    "airport": {
+      "identity": 391,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LGA"
+      }
+    },
+    "amountOfDepartures": 2
+  },
+  {
+    "airport": {
+      "identity": 402,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "TUS"
+      }
+    },
+    "amountOfDepartures": 2
+  },
+  {
+    "airport": {
+      "identity": 360,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SEA"
+      }
+    },
+    "amountOfDepartures": 3
+  },
+  {
+    "airport": {
+      "identity": 389,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "PHX"
+      }
+    },
+    "amountOfDepartures": 3
+  },
+  {
+    "airport": {
+      "identity": 406,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SBN"
+      }
+    },
+    "amountOfDepartures": 3
+  },
+  {
+    "airport": {
+      "identity": 364,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 370,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "PDX"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 376,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "BOS"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 378,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "DFW"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 384,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SAN"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 395,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "BHM"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 397,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "CVG"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 400,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 401,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 403,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "DLH"
+      }
+    },
+    "amountOfDepartures": 4
+  },
+  {
+    "airport": {
+      "identity": 379,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SLC"
+      }
+    },
+    "amountOfDepartures": 5
+  },
+  {
+    "airport": {
+      "identity": 383,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "HNL"
+      }
+    },
+    "amountOfDepartures": 5
+  },
+  {
+    "airport": {
+      "identity": 404,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "FSD"
+      }
+    },
+    "amountOfDepartures": 5
+  },
+  {
+    "airport": {
+      "identity": 361,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "amountOfDepartures": 7
+  },
+  {
+    "airport": {
+      "identity": 409,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "MOT"
+      }
+    },
+    "amountOfDepartures": 8
+  },
+  {
+    "airport": {
+      "identity": 368,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "MSP"
+      }
+    },
+    "amountOfDepartures": 9
+  },
+  {
+    "airport": {
+      "identity": 372,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "IAD"
+      }
+    },
+    "amountOfDepartures": 12
+  },
+  {
+    "airport": {
+      "identity": 396,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "BNA"
+      }
+    },
+    "amountOfDepartures": 12
+  },
+  {
+    "airport": {
+      "identity": 407,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "AZO"
+      }
+    },
+    "amountOfDepartures": 13
+  },
+  {
+    "airport": {
+      "identity": 371,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "amountOfDepartures": 14
+  },
+  {
+    "airport": {
+      "identity": 377,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "amountOfDepartures": 18
+  },
+  {
+    "airport": {
+      "identity": 365,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "amountOfDepartures": 22
+  },
+  {
+    "airport": {
+      "identity": 362,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "IAH"
+      }
+    },
+    "amountOfDepartures": 23
+  },
+  {
+    "airport": {
+      "identity": 408,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "DTW"
+      }
+    },
+    "amountOfDepartures": 25
+  },
+  {
+    "airport": {
+      "identity": 367,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "amountOfDepartures": 48
+  }
+]

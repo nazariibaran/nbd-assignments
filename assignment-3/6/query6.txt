@@ -1,0 +1,2 @@
+MATCH (m:Movie)<-[:ACTED_IN]-(actor)
+RETURN actor.name, count(*)

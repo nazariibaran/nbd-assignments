@@ -1,0 +1,37 @@
+[
+  {
+    "director": {
+      "identity": 175,
+      "labels": ["Person"],
+      "properties": {
+        "born": 1950,
+        "name": "Joe Johnston"
+      }
+    },
+    "actor": {
+      "identity": 177,
+      "labels": ["Person"],
+      "properties": {
+        "born": 1981,
+        "name": "Chris Evans"
+      }
+    },
+    "writer": {
+      "identity": 176,
+      "labels": ["Person"],
+      "properties": {
+        "born": 1970,
+        "name": "Christopher Markus"
+      }
+    },
+    "movie": {
+      "identity": 174,
+      "labels": ["Movie"],
+      "properties": {
+        "tagline": "The first Avenger",
+        "title": "Captain America",
+        "released": 2011
+      }
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "firstCity": {
+      "identity": 381,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "MSN"
+      }
+    },
+    "firstFlight": {
+      "identity": 2447,
+      "start": 381,
+      "end": 367,
+      "type": "ROUTE",
+      "properties": {
+        "businessPrice": 118,
+        "date": "11/30/2015 05:26:41",
+        "duration": 30,
+        "flight": 631,
+        "distance": 108,
+        "minPrice": 88.5,
+        "firstClassPrice": 141.6,
+        "airline": "19977",
+        "economyPrice": 88.5
+      }
+    },
+    "secondCity": {
+      "identity": 367,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "secondFlight": {
+      "identity": 2656,
+      "start": 367,
+      "end": 428,
+      "type": "ROUTE",
+      "properties": {
+        "businessPrice": 144,
+        "date": "11/17/2015 16:11:47",
+        "duration": 23,
+        "flight": 1211,
+        "distance": 137,
+        "minPrice": 108.0,
+        "firstClassPrice": 172.79999999999998,
+        "airline": "20304",
+        "economyPrice": 108.0
+      }
+    },
+    "thirdCity": {
+      "identity": 428,
+      "labels": ["Airport"],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "price": 196.5
+  }
+]

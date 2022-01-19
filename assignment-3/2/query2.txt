@@ -1,0 +1,1 @@
+MATCH (:Person {name:"Hugo Weaving"})-->(movie) RETURN movie.title
