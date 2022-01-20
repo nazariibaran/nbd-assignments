@@ -1,0 +1,3 @@
+curl -i -XPOST -H "Content-Type: application/json" -d '{
+  "name": "Nazarii"
+}' http://localhost:8098/buckets/s24068/keys?returnbody=true

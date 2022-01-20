@@ -1,0 +1,34 @@
+curl -i -XPOST -H "Content-Type: application/json" -d '{
+  "name": "Franka Gernot",
+  "studiesAverage": 5.0,
+  "requiredInternships": 320,
+  "isGraduate": false
+}' http://localhost:8098/buckets/s24068/keys/franka
+
+curl -i -XPOST -H "Content-Type: application/json" -d '{
+  "name": "Susann Olaf",
+  "studiesAverage": 4.21,
+  "requiredInternships": 0,
+  "isGraduate": false
+}' http://localhost:8098/buckets/s24068/keys/susann
+
+curl -i -XPOST -H "Content-Type: application/json" -d '{
+  "name": "Hilbert Gabriela",
+  "studiesAverage": 3.4,
+  "requiredInternships": 320,
+  "isGraduate": true
+}' http://localhost:8098/buckets/s24068/keys/hilbert
+
+curl -i -XPOST -H "Content-Type: application/json" -d '{
+  "name": "Vilma Kurt",
+  "studiesAverage": 4.0,
+  "requiredInternships": 320,
+  "isGraduate": false
+}' http://localhost:8098/buckets/s24068/keys/vilma
+
+curl -i -XPOST -H "Content-Type: application/json" -d '{
+  "name": "Oskar Constanze",
+  "studiesAverage": 2.7,
+  "requiredInternships": 0,
+  "isGraduate": true
+}' http://localhost:8098/buckets/s24068/keys/oskar

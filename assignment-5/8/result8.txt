@@ -1,0 +1,15 @@
+HTTP/1.1 201 Created
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvpcXWDIdyGbKYEpkzGNlqNHwu82XBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s24068/keys/bj65Lns5NA5nNg5DXRsxjygbqDB
+Link: </buckets/s24068>; rel="up"
+Last-Modified: Sat, 15 Jan 2022 13:33:40 GMT
+ETag: "6KCwxBJTfizFl0EQc3L0mX"
+Date: Sat, 15 Jan 2022 13:33:40 GMT
+Content-Type: application/json
+Content-Length: 26
+
+{
+  "name": "Nazarii"
+}

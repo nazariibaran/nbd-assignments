@@ -1,0 +1,7 @@
+curl -i -XPUT -H "Content-Type: application/json" -d '{
+  "name": "Susann Olaf",
+  "studiesAverage": 4.21,
+  "requiredInternships": 0,
+  "nationality: "US",
+  "isGraduate": false
+}' http://localhost:8098/buckets/s24068/keys/susann?returnbody=true

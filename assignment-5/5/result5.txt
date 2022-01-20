@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvpfnE2+CCCWy5LEyfLnqc5svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s24068>; rel="up"
+Last-Modified: Fri, 14 Jan 2022 20:19:16 GMT
+ETag: "5YAYXvCMoPRYL256SbVjfL"
+Date: Fri, 14 Jan 2022 20:19:16 GMT
+Content-Type: application/json
+Content-Length: 75
+
+{
+  "name": "Susann Olaf",
+  "studiesAverage": 5.0,
+  "requiredInternships": 0,
+  "nationality: "US",
+}
